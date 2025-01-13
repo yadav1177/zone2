@@ -1,94 +1,139 @@
 #EXTM3U
 #EXTINF: -1 tvg-id="521" tvg-chno="1" tvg-logo="https://tatalogo.pages.dev/521.png" group-title="Tamil", Sun TV HD
 http://tv.cloudcdn.me:80/live.ts?channelId=43421&uid=5353&deviceMac=00:1A:79:17:D4:65
+
 #EXTINF: -1 tvg-id="496" tvg-chno="2" tvg-logo="https://tatalogo.pages.dev/496.png" group-title="Tamil", Star Vijay HD
 http://tv.cloudcdn.me/live.ts?channelId=43419&uid=14505&deviceMac=00:1A:79:A7:53:75
+
 #EXTINF: -1 tvg-id="380" tvg-chno="3" tvg-logo="https://tatalogo.pages.dev/380.png" group-title="Tamil", KTV HD
 http://tv.cloudcdn.me:80/live.ts?channelId=43411&uid=5353&deviceMac=00:1A:79:17:D4:65
+
 #EXTINF: -1 tvg-id="608" tvg-chno="4" tvg-logo="https://tatalogo.pages.dev/608.png" group-title="Tamil", Zee Tamil HD
 http://tv.cloudcdn.me:80/live.ts?channelId=43423&uid=14505&deviceMac=00:1A:79:A7:53:75
+
 #EXTINF: -1 tvg-id="ts511" tvg-chno="5" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11954-j9lu45o8-v1/imageContent-11954-j9lu45o8-m1.png" group-title="Tamil", Sun Music
 http://tv.cloudcdn.me:80/live.ts?channelId=43420&uid=5410&deviceMac=00:1A:79:0E:F8:A1
+
 #EXTINF: -1 tvg-id="674" tvg-chno="6" tvg-logo="https://tatalogo.pages.dev/674.png" group-title="Tamil", Colors Tamil HD
 http://tv.cloudcdn.me/live.ts?channelId=43408&uid=14505&deviceMac=00:1A:79:A7:53:75
+
 #EXTINF: -1 tvg-id="200" tvg-chno="7" tvg-logo="https://tatalogo.pages.dev/200.png" group-title="Tamil", Kalaignar TV
 http://extraott.com/live/6945574629/7169628753/187114.ts
+
 #EXTINF: -1 tvg-id="708" tvg-chno="8" tvg-logo="https://tatalogo.pages.dev/708.png" group-title="Tamil", Jaya TV HD
 http://tv.cloudcdn.me:80/live.ts?channelId=43517&uid=14505&deviceMac=00:1A:79:A7:53:75
+
 #EXTINF: -1 tvg-id="439" tvg-chno="12" tvg-logo="https://tatalogo.pages.dev/439.png" group-title="Tamil", Raj TV
 http://tv.cloudcdn.me:80/live.ts?channelId=43417&uid=14505&deviceMac=00:1A:79:A7:53:75
+
 #EXTINF: -1 tvg-id="ts1176" tvg-chno="50" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/VISUHD_Thumbnail-v1/VISUHD_Thumbnail.png" group-title="Tamil", Vijay Super HD
 http://tv.cloudcdn.me:80/live.ts?channelId=43518&uid=14505&deviceMac=00:1A:79:A7:53:75
+
 #EXTINF:-1 tvg-id="1182" group-title="Tamil", tvg-logo="https://tatalogo.pages.dev/1182.png", Zee Thirai HD
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/181966.m3u8
+
 #EXTINF: -1 tvg-id="ts284" tvg-chno="15" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11218-j9ichyag-v1/imageContent-11218-j9ichyag-m1.png" group-title="Tamil", Adithya TV
 http://tv.cloudcdn.me:80/live.ts?channelId=43404&uid=14505&deviceMac=00:1A:79:1F:2E:5A
+
 #EXTINF: -1 tvg-id="611" tvg-chno="16" tvg-logo="https://tatalogo.pages.dev/611.png" group-title="Tamil", Sirippoli
 http://tv.cloudcdn.me:80/live.ts?channelId=43521&uid=14505&deviceMac=00:1A:79:A7:53:75
+
 #EXTINF: -1 tvg-chno="ts1166" tvg-chno="17" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/CHIT_Thumbnail-v1/CHIT_Thumbnail.png" group-title="Tamil", Chithiram TV
 http://tv.cloudcdn.me:80/live.ts?channelId=43407&uid=14505&deviceMac=00:1A:79:A7:53:75
+
 #EXTINF: -1 tvg-id="ts906" tvg-chno="18" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-73570-l91cvyrk-v1/imageContent-73570-l91cvyrk-m2.png" group-title="Tamil", Vijay Takkar
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/23869.m3u8
+
 #EXTINF: -1 tvg-id="1332" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/THANTIO_Thumbnail-v4/THANTIO_Thumbnail.png" group-title="Tamil", Thanthi One
 https://249553662f3e.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.588204940461.channel.Sx8XPoik8VX2.m3u8
+
 #EXTINF: -1 tvg-id="AstroVaanavil" tvg-chno="29" tvg-logo="https://i.postimg.cc/Jz8NwGbz/images-photoaidcom-cropped.png" group-title="Tamil",Astro Vaanavil HD
 http://viphomal.xyz:8080/VIP01594171414635172/bda831ff8f02/34547
+
 #EXTINF: -1 tvg-id="201" tvg-chno="19" tvg-logo="https://tatalogo.pages.dev/201.png" group-title="Tamil", J Movies
 http://tv.cloudcdn.me:80/live.ts?channelId=43410&uid=14505&deviceMac=00:1A:79:A7:53:75
+
 #EXTINF: -1 tvg-id="474" tvg-chno="25" tvg-logo="https://tatalogo.pages.dev/474.png" group-title="Tamil", Sun Life
 http://tv.cloudcdn.me:80/live.ts?channelId=89833&uid=14505&deviceMac=00:1A:79:A7:53:75
+
 #EXTINF: -1 tvg-id="411" tvg-chno="26" tvg-logo="https://tatalogo.pages.dev/411.png" group-title="Tamil", Murasu TV
 https://segment.yuppcdn.net/050522/murasu/playlist.m3u8
+
 #EXTINF: -1 tvg-id="ts77" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-249-j5fyl7tk-v1/imageContent-249-j5fyl7tk-m1.png" group-title="Tamil", Star Sports 1 Tamil
 https://fl1002.bozztv.com/ssh101/tultrabbtamil/index.m3u8
+
 #EXTINF: -1 tvg-id="434" tvg-chno="20" tvg-logo="https://tatalogo.pages.dev/434.png" group-title="Tamil", Jothi TV
 http://portal.magic8kip.tv:80/play/live.php?mac=00:1a:79:B5:AD:1A&stream=1526445&extension=ts&play_token=GAqmzOweJk
+
 #EXTINF: -1 tvg-id="272" tvg-chno="21" tvg-logo="https://tatalogo.pages.dev/272.png" group-title="Tamil", Polimer TV
 http://tv.cloudcdn.me:80/live.ts?channelId=85931&uid=14505&deviceMac=00:1A:79:A7:53:75
+
 #EXTINF: -1 tvg-id="499" tvg-chno="22" tvg-logo="https://tatalogo.pages.dev/499.png" group-title="Tamil", Vasanth TV
 https://vasanth.pc.cdn.bitgravity.com/vasanth/secure/live/feed01/playlist.m3u8?e=0&h=54e44f64b2e6d5122acdf77d01ab7f9f
+
 #EXTINF: -1 tvg-id="659" tvg-chno="23" tvg-logo="https://tatalogo.pages.dev/659.png" group-title="Tamil", Vendhar TV
 http://pythonlived.com:2052/play/live.php?mac=00:1a:79:c6:cc:db&stream=429639&extension=ts
+
 #EXTINF: -1 tvg-id="421" tvg-chno="24" tvg-logo="https://tatalogo.pages.dev/421.png" group-title="Tamil", Peppers TV
 http://tv.cloudcdn.me:80/live.ts?channelId=23125&uid=14505&deviceMac=00:1A:79:A7:53:75
+
 #EXTINF: -1 tvg-id="426" tvg-chno="27" tvg-logo="https://tatalogo.pages.dev/426.png" group-title="Tamil", Raj Digital Plus
 http://extraott.com/live/6945574629/7169628753/187214.ts
+
 #EXTINF: -1 tvg-id="392" tvg-chno="30" tvg-logo="https://tatalogo.pages.dev/392.png" group-title="Tamil", Makkal TV
 http://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
+
 #EXTINF: -1 tvg-id="37" tvg-chno="16" tvg-logo="https://tataprime.wordpress.com/wp-content/uploads/2024/06/20240603_0608231733608464190748767.png" group-title="Tamil", Mega TV
 http://ptu.ridsys.in/riptv/live/stream69/index.m3u8
+
 #EXTINF: -1 tvg-id="57" tvg-chno="16" tvg-logo="https://tataprime.wordpress.com/wp-content/uploads/2024/04/20240404_0218344882082935187551464.png" group-title="Tamil", Mega 24
 http://ptu.ridsys.in/riptv/live/stream80/index.m3u8
+
 #EXTINF: -1 tvg-id="334" tvg-chno="29" tvg-logo="https://i.ibb.co/rQNDBCy/dd.png" group-title="Tamil", DD Tamil
 https://d2lk5u59tns74c.cloudfront.net/out/v1/abf46b14847e45499f4a47f3a9afe93d/index.m3u8
+
 #EXTINF:-1 tvg-id="vasantham" tvg-name="Singapore" group-title="Tamil" tvg-logo="https://i.ibb.co/KVTfHd7/singapore-vasantham.png",Vasantham
 http://31.42.187.37:25461/live/watchpad13158/1234/2302.ts
+
 #EXTINF:-1 tvg-id="847" group-title="Tamil" tvg-logo="https://tataprime.wordpress.com/wp-content/uploads/2024/04/20240408_122523124639342017653359.png",MK TV
 http://pythonlived.com:2052/play/live.php?mac=00:1a:79:c6:cc:db&stream=430969&extension=ts
+
 #EXTINF:-1 tvg-id="1647" group-title="Tamil" tvg-logo="https://tataprime.wordpress.com/wp-content/uploads/2024/05/20240521_1223086548629137627592678.png",MK Six
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/37453.m3u8
+
 #EXTINF: -1 tvg-id="1517" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240306_0714135772718039547865531.png" group-title="Tamil", Imayam
 https://idvd.multitvsolution.com/idvo/imayamtv.m3u8
+
 #EXTINF:-1 tvg-id="1518" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240313_0159072608720790962587693.png" group-title="Tamil",Moon TV
 https://player.mslivestream.net/mslive/e10bb900976df9177b9a080314f26f86.sdp/chunks.m3u8
+
 #EXTINF: -1 tvg-id="971" tvg-chno="189" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240315_0856271246595482699747248.png" group-title="Tamil", Vaanavil TV
 https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/playlist.m3u8
+
 #EXTINF:-1  tvg-name="824" group-title="Tamil" tvg-logo="https://i.ibb.co/Xt40dT5/Puthuyugam.png",Puthu Yugam
 http://main.light-ott.net:80/play/live.php?mac=00:1a:79:6A:88:07&stream=908585&extension=ts&play_token=DwbLQ5L3bZ
+
 #EXTINF:-1  tvg-name="843" group-title="Tamil" tvg-logo="https://tataprime.wordpress.com/wp-content/uploads/2024/06/20240607_1900386590027353433956913.png",Madhimugam TV
 http://pythonlived.com:8789/play/live.php?mac=00:1a:79:c6:cc:db&stream=430971&extension=ts
+
 #EXTINF: -1 tvg-id="3004" tvg-logo="https://i.ibb.co/GQhjbGt/1000136225-photoaidcom-cropped.png" group-title="Tamil", Velicham Plus
 https://cdn.smartstream.video/smartstream-us/velichamtv/velichamtv/playlist.m3u8
+
 #EXTINF: -1 tvg-id="2958" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240307_0044256880499658982038945.png" group-title="Tamil", Tamilan Television
 http://main.light-ott.net:80/play/live.php?mac=00:1a:79:6A:88:07&stream=908600&extension=ts&play_token=Nxza8X6R4b
+
 #EXTINF:-1  tvg-name="Shalini Tv" group-title="Tamil" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240301_2245168831702386818332917.png",Shalini Tv
 https://gvjygr2jloem-hls-live.5centscdn.com/shalini/live.stream/chunks.m3u8
+
 #EXTINF:-1  tvg-name="Dheeran Tv" group-title="Tamil" tvg-logo="https://i.postimg.cc/PqZYVZKT/Dheeran-Tv-modified.png",Dheeran TV
 https://live.we2live.in/dheerantv/dheerantv/playlist.m3u8
+
 #EXTINF:-1  tvg-name="Vikatan" group-title="Tamil" tvg-logo="https://i.ibb.co/F0HvxrQ/vikatan.png",Vikatan TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/vikatan-tv/master.m3u8
+
 #EXTINF:-1  tvg-name="Malar" group-title="Tamil" tvg-logo="https://i.ibb.co/P9tMqwL/malar.png", Malar TV
 http://tr.redatvgold.com/play/live.php?mac=00:1a:79:4D:49:B3&stream=1097667&extension=ts&play_token=Wd5tNbbZsh
+
 #EXTINF:-1  tvg-name="BB" group-title="Tamil" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Bigg_Boss_Tamil_Poster.jpg/300px-Bigg_Boss_Tamil_Poster.jpg", BiggBoss Live
 https://live.tamiltool.online/livestream/index.m3u8
 http://tv.cloudcdn.me/live.ts?channelId=132411&uid=16068&deviceMac=00:1A:79:ED:10:29
