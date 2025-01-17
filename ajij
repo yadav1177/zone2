@@ -1,4 +1,38 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Babes One 4K Adults" tvg-logo="https://png.pngtree.com/png-vector/20221015/ourmid/pngtree-4k-resolution-ultra-hd-png-image_6339349.png" group-title="4K Adults",Babes One 4K Adults
+http://bostv.one:8080/12309/12309/95289
+
+#EXTINF:-1 tvg-id="" tvg-name="Babes Two 4K Adults" tvg-logo="https://png.pngtree.com/png-vector/20221015/ourmid/pngtree-4k-resolution-ultra-hd-png-image_6339349.png" group-title="4K Adults",Babes Two 4K Adults
+http://bostv.one:8080/12309/12309/95290
+
+#EXTINF:-1 tvg-id="" tvg-name="Babes Three 4K Adults" tvg-logo="https://png.pngtree.com/png-vector/20221015/ourmid/pngtree-4k-resolution-ultra-hd-png-image_6339349.png" group-title="4K Adults",Babes Three 4K Adults
+http://bostv.one:8080/12309/12309/95291
+
+#EXTINF:-1 tvg-id="" tvg-name="Adult TINY4K 1 HD ADULT" tvg-logo="https://png.pngtree.com/png-vector/20221015/ourmid/pngtree-4k-resolution-ultra-hd-png-image_6339349.png" group-title="4K Adults",Adult TINY4K 1 HD ADULT
+http://bostv.one:8080/12309/12309/95292
+
+#EXTINF:-1 tvg-id="" tvg-name="Adult TINY4K 2 HD ADULT" tvg-logo="https://png.pngtree.com/png-vector/20221015/ourmid/pngtree-4k-resolution-ultra-hd-png-image_6339349.png" group-title="4K Adults",Adult TINY4K 2 HD ADULT
+http://bostv.one:8080/12309/12309/95293
+
+#EXTINF:-1 tvg-id="" tvg-name="Adult TINY4K 3 HD ADULT" tvg-logo="https://png.pngtree.com/png-vector/20221015/ourmid/pngtree-4k-resolution-ultra-hd-png-image_6339349.png" group-title="4K Adults",Adult TINY4K 3 HD ADULT
+http://bostv.one:8080/12309/12309/95294
+
+#EXTINF:-1 tvg-id="" tvg-name="Movies Cinema Erotic 1 FHD Adult" tvg-logo="https://static.epg.best/de/AdultChannel.de.png" group-title="4K Adults",Movies Cinema Erotic 1 FHD Adult
+http://bostv.one:8080/12309/12309/95295
+
+#EXTINF:-1 tvg-id="" tvg-name="Movies Cinema Erotic 2 FHD Adult" tvg-logo="https://static.epg.best/de/AdultChannel.de.png" group-title="4K Adults",Movies Cinema Erotic 2 FHD Adult
+http://bostv.one:8080/12309/12309/95296
+
+#EXTINF:-1 tvg-id="" tvg-name="Movies Cinema Erotic 3 FHD Adult" tvg-logo="https://static.epg.best/de/AdultChannel.de.png" group-title="4K Adults",Movies Cinema Erotic 3 FHD Adult
+http://bostv.one:8080/12309/12309/95297
+
+#EXTINF:-1 tvg-id="" tvg-name="Movies Cinema Erotic 4 FHD Adult" tvg-logo="https://static.epg.best/de/AdultChannel.de.png" group-title="4K Adults",Movies Cinema Erotic 4 FHD Adult
+http://bostv.one:8080/12309/12309/95298
+
+#EXTINF:-1 tvg-id="" tvg-name="Movies Cinema Erotic 5 FHD Adult" tvg-logo="https://static.epg.best/de/AdultChannel.de.png" group-title="4K Adults",Movies Cinema Erotic 5 FHD Adult
+http://bostv.one:8080/12309/12309/95299
+
 #EXTINF: -1 tvg-id="521" tvg-chno="1" tvg-logo="https://tatalogo.pages.dev/521.png" group-title="Tamil", Sun TV HD
 http://tv.cloudcdn.me:80/live.ts?channelId=43421&uid=5353&deviceMac=00:1A:79:17:D4:65
 
