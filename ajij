@@ -1,4 +1,9 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="http://tnm3u.live/icon/tamil/local/rasilifestyle.png" group-title="Tamil", Rasi Lifestyle
+https://tnm3u.in.net/channel/tamil.php?c=rasilifestyle
+
+#EXTINF:-1 tvg-logo="http://tnm3u.live/icon/tamil/local/rasicinema.png" group-title="Tamil", Rasi Cinema
+https://tnm3u.in.net/channel/tamil.php?c=rasicinema
 #EXTINF:-1 tvg-logo="http://tnm3u.live/icon/tamil/local/rasicinema.png" group-title="Tamil", Rasi Cinema
 https://tnm3u.in.net/channel/tamil.php?c=rasicinema
 
