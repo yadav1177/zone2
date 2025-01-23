@@ -786,7 +786,7 @@ http://ptu.ridsys.in/riptv/live/stream80/index.m3u8
 #EXTINF: -1 tvg-id="334" tvg-chno="29" tvg-logo="https://i.ibb.co/rQNDBCy/dd.png" group-title="Tamil", DD Tamil
 https://d2lk5u59tns74c.cloudfront.net/out/v1/abf46b14847e45499f4a47f3a9afe93d/index.m3u8
 
-#EXTINF:-1 tvg-id="vasantham" tvg-name="Singapore" group-title="Tamil" tvg-logo="https://i.ibb.co/KVTfHd7/singapore-vasantham.png",Vasantham
+#EXTINF:-1 tvg-id="vasantham" tvg-name="" group-title="Tamil" tvg-logo="https://i.ibb.co/KVTfHd7/singapore-vasantham.png",Vasantham
 http://31.42.187.37:25461/live/watchpad13158/1234/2302.ts
 
 #EXTINF:-1 tvg-id="847" group-title="Tamil" tvg-logo="https://tataprime.wordpress.com/wp-content/uploads/2024/04/20240408_122523124639342017653359.png",MK TV
@@ -834,25 +834,6 @@ http://tv.cloudcdn.me/live.ts?channelId=132411&uid=16068&deviceMac=00:1A:79:ED:1
 
 
 =============================ENTERTAINMENT============================
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://m3u.yuvraj49.xyz/tp/KxfXYXx4EDTU/license/key?id=521
-#EXTINF:-1 tvg-id="521" group-title="Entertainment", tvg-logo="https://tatalogo.pages.dev/521.png", Sun TV HD
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://m3u.yuvraj49.xyz/tp/KxfXYXx4EDTU/manifest/521.mpd|User-Agent=Safari/537.36
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://m3u.yuvraj49.xyz/tp/KxfXYXx4EDTU/license/key?id=496
-#EXTVLCOPT:http-user-agent=Safari/537.36
-#EXTINF:-1 tvg-id="496" group-title="Entertainment", tvg-logo="https://tatalogo.pages.dev/496.png", Star Vijay HD
-https://m3u.yuvraj49.xyz/tp/KxfXYXx4EDTU/manifest/496.mpd|User-Agent=Safari/537.36
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://m3u.yuvraj49.xyz/tp/KxfXYXx4EDTU/license/key?id=608
-#EXTVLCOPT:http-user-agent=Safari/537.36
-#EXTINF:-1 tvg-id="608" group-title="Entertainment", tvg-logo="https://tatalogo.pages.dev/608.png", Zee Tamil HD
-https://m3u.yuvraj49.xyz/tp/KxfXYXx4EDTU/manifest/608.mpd|User-Agent=Safari/537.36
 
 #EXTINF:-1 tvg-id="674" group-title="Entertainment", tvg-logo="https://tatalogo.pages.dev/674.png", Colors Tamil HD
 https://live.drmlive-02.workers.dev/jc/429.m3u8
