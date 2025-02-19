@@ -1,4 +1,32 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="zee tamil" tvg-logo="" group-title="TAMIL",zee tamil
+https://starshare.live:443/live/Money12345/Money12345/142941.ts
+
+#EXTINF:-1 tvg-id="sathiyamtv.in" tvg-name="Tamil: Sathiyam Tv news" tvg-logo="" group-title="TAMIL",Tamil: Sathiyam Tv news
+https://starshare.live:443/live/Money12345/Money12345/256457.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="TM: JothiTV" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jothi-tv-in.png" group-title="TAMIL",TM: JothiTV
+https://starshare.live:443/live/Money12345/Money12345/296241.ts
+
+#EXTINF:-1 tvg-id="svbc2.in" tvg-name="TM: SVBC 2 SD" tvg-logo="" group-title="TAMIL",TM: SVBC 2 SD
+https://starshare.live:443/live/Money12345/Money12345/355560.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="TM: DD Tamil" tvg-logo="" group-title="TAMIL",TM: DD Tamil
+https://starshare.live:443/live/Money12345/Money12345/371554.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="TM: Tamil Janam" tvg-logo="" group-title="TAMIL",TM: Tamil Janam
+https://starshare.live:443/live/Money12345/Money12345/376319.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="TM: Thanthi One" tvg-logo="" group-title="TAMIL",TM: Thanthi One
+https://starshare.live:443/live/Money12345/Money12345/376324.ts
+
+#EXTINF:-1 tvg-id="rajnewstamil.in" tvg-name="TM: Raj News Tamil" tvg-logo="" group-title="TAMIL",TM: Raj News Tamil
+https://starshare.live:443/live/Money12345/Money12345/380978.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="TM: BIGG BOSS TAMIL 24X7" tvg-logo="https://static.toiimg.com/thumb/msid-113118153,width-400,resizemode-4/113118153.jpg" group-title="TAMIL",TM: BIGG BOSS TAMIL 24X7
+https://starshare.live:443/live/Money12345/Money12345/408690.ts
+
 #EXTINF:-1 tvg-id="59074" tvg-logo="" group-title="TAMIL",TAMIL MOVIES 
 http://jeyamtv.livebox.co.in/JeyamTelevisionhls/JeyamTelevision.m3u8
 
